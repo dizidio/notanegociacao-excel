@@ -1,8 +1,8 @@
 # Nota de Negociação (Day Trade) -> Excel
 
-Conversão entre notas de negociação em PDF para uma tabela em Excel, evitando o preenchimento manual dos valores negociados em day trade.
+Conversão entre notas de negociação em PDF para uma tabela em Excel, evitando o preenchimento manual dos valores negociados em Day Trade.
 
-**Atenção:** Testado apenas em notas de corretagem da Clear para negociações do tipo Day-Trade.
+**Atenção:** Testado apenas em notas de corretagem da Clear para negociações do tipo Day Trade.
 
 ## Como utilizar
 Inserir TODOS os PDFs das notas de negociação na mesma pasta do projeto e executar o arquivo *notas.py* com Python3.
@@ -27,7 +27,7 @@ A saída consiste em dois arquivos do tipo XLSX:
 
 ```
 NotasDeNegociacao.xlsx - contém informações sobre cada nota individual
-NotasMes.xls - informações sobre o conjunto das notas dividido mensalmente
+NotasMes.xlsx - informações sobre o conjunto das notas dividido mensalmente
 ```
 
 
@@ -63,4 +63,4 @@ Cada arquivo possui as seguintes colunas, retiradas diretamente das Notas de Neg
 
 ## Autor
 
-* **Diogo Izidio**
+* Diogo Izidio
